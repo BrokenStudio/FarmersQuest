@@ -1,6 +1,6 @@
-
-![Logo](https://avatars.githubusercontent.com/u/102054461?s=200&v=4)
-
+<p align="center">
+  <img src="https://github.com/BrokenStudio/BrokenStudio/blob/master/BrokenStudio_Border.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 # FarmersQuest
 
